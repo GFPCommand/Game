@@ -22,6 +22,12 @@
 # Visual Studio cache directory
 .vs/
 
+#Plastic SCM directory
+.plastic/
+
+#VS Code directory
+.vscode/
+
 # Gradle cache directory
 .gradle/
 
@@ -57,4 +63,8 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+ignore.conf
+.vsconfig
+.collabignore
 
